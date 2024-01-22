@@ -203,7 +203,7 @@ Playbook
     > host servers where we have to do changes
     > tasks & modules on what chnages to be done
 
-> A playbookw ill be converted to a python program and copied on the hostservers using SSH
+> A playbookw will be converted to a python program and copied on the hostservers using SSH
 > In cases windows playbook--> it will be converted to powershell scriots and copied on hosts ervers suing WINRM
     
 
